@@ -277,8 +277,8 @@
       }
     },
     "famulor": {
-      "sha": "aa979e0f02f49736d02bcad39fb4b97262e84ba5",
-      "version": "2.1.4",
+      "sha": "dc3e60b5e36cf796b4273380419df2781201e3c1",
+      "version": "2.1.5",
       "components": {
         "mcpServers": [
           {

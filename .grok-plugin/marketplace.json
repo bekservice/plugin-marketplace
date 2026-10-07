@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/bekservice/Famulor-Skill.git",
-        "sha": "aa979e0f02f49736d02bcad39fb4b97262e84ba5"
+        "sha": "dc3e60b5e36cf796b4273380419df2781201e3c1"
       },
       "homepage": "https://docs.famulor.io/mcp/overview",
       "keywords": ["famulor", "famulor assistants", "famulor voice agents", "famulor mcp"],
