@@ -397,17 +397,16 @@
       "domains": ["unity.com", "unity3d.com", "docs.unity3d.com", "docs.unity.com", "discussions.unity.com", "assetstore.unity.com"]
     },
     {
-      "name": "famulor-assistants-history",
-      "description": "Review Famulor assistant configurations, versions, catalogs, and omnichannel call, messaging, and email history through an OAuth-secured, read-only 11-tool MCP profile.",
+      "name": "famulor",
+      "description": "Operate Famulor assistants, calls, campaigns, messaging, telephony, knowledge, dashboards, automations, and workspace settings through the OAuth-secured MCP server and guided skill.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/bekservice/Famulor-Skill.git",
-        "sha": "aa979e0f02f49736d02bcad39fb4b97262e84ba5",
-        "path": "claude-store"
+        "sha": "aa979e0f02f49736d02bcad39fb4b97262e84ba5"
       },
       "homepage": "https://docs.famulor.io/mcp/overview",
-      "keywords": ["famulor", "famulor assistants", "famulor history", "famulor mcp"],
+      "keywords": ["famulor", "famulor assistants", "famulor voice agents", "famulor mcp"],
       "domains": ["famulor.io", "app.famulor.io", "docs.famulor.io"]
     },
     {

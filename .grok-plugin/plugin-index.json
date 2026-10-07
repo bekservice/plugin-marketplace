@@ -276,7 +276,7 @@
         ]
       }
     },
-    "famulor-assistants-history": {
+    "famulor": {
       "sha": "aa979e0f02f49736d02bcad39fb4b97262e84ba5",
       "version": "2.1.4",
       "components": {
@@ -288,8 +288,8 @@
         ],
         "skills": [
           {
-            "name": "famulor-assistants-history",
-            "description": "Read Famulor assistant configurations, versions, catalogs, and omnichannel conversation history through the restricted…"
+            "name": "famulor-skill",
+            "description": "Operate a Famulor workspace through its hosted MCP server, including assistants, conversation history, campaigns, messa…"
           }
         ]
       }
