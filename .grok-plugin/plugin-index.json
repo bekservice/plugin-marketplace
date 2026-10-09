@@ -273,8 +273,8 @@
       }
     },
     "famulor": {
-      "sha": "dc3e60b5e36cf796b4273380419df2781201e3c1",
-      "version": "2.1.5",
+      "sha": "49d10588f1c9d5b10744b5d4db3fa64c10f31e60",
+      "version": "2.1.6",
       "components": {
         "mcpServers": [
           {
